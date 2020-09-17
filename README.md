@@ -9,7 +9,7 @@ that manage files that created based on static hash (Hash Table).
 
 The functions are related to record management and administration of database
 indexes. Their implementation will be above the level of block management, which
-is already given as a library. THe managment of hash files is done through the functions with the prefix HT_.
+is already given as a library. The managment of hash files is done through the functions with the prefix HT_.
 
 Some of the fuctions that I implement:
 
