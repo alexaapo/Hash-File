@@ -30,10 +30,10 @@ Some of the fuctions that I implement:
 ## Execution:
 I create 5 files of diferrent input for running the programm:
 
-1) bash script.sh
-2) bash script1.sh
-3) bash script2.sh
-4) bash script3.sh
-5) bash script4.sh
+1) **bash script.sh**
+2) **bash script1.sh**
+3) **bash script2.sh**
+4) **bash script3.sh**
+5) **bash script4.sh**
 
 **With execution of code we can observe that all entries have been inserted and printed normally (in seperated buckets and blocks), then find an entry with specific id, delete it and finally re-find it (which is going to throw error).**
